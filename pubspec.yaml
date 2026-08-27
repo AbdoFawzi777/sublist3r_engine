@@ -1,7 +1,9 @@
 name: sublist3r_engine
-description: Passive OSINT subdomain enumeration and alive-checking engine for Dart & Flutter. Inspired by Sublist3r.
+description: Passive OSINT subdomain enumeration and DNS resolution checker for Dart and Flutter.
 version: 2.0.0
-publish_to: none
+repository: https://github.com/AbdoFawzi777/sublist3r_engine
+homepage: https://github.com/AbdoFawzi777/sublist3r_engine
+issue_tracker: https://github.com/AbdoFawzi777/sublist3r_engine/issues
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
